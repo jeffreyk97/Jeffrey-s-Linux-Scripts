@@ -1,2 +1,5 @@
-# Jeffrey-s-Linux-Scripts
-Usefull Shell scripts for Ubuntu (based) operating systems
+# Jeffrey's Linux scripts (JLS)
+It's time to finish what you rejected, boss.
+
+## Summary
+This page is currently under development.
