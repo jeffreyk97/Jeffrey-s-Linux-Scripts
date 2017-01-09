@@ -8,7 +8,9 @@ This page is under development.
 Currently not available.
 
 ## Planned development
-JLS-control (jls-control.sh) - All-in-one tool for managing a Linux PC/Server.
+JLS-control (jls-control.sh) - All-in-one tool for easy management of a Linux PC/Server.
+
+MyPache-panel (mypache-panel.sh) - Basic Apache2 & MySQL management tool.
 
 ## Supported operating systems
 Ubuntu (based) operating systems (16.04.* LTS Xenial preferred)
