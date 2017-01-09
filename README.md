@@ -5,9 +5,9 @@ It's time to finish what you rejected, boss.
 This page is under development.
 
 ## Script summary
-Currently not available.
+Scripts are not done yet, this will be added when a script is finished and ready for use.
 
-## Planned development
+## Unfinished scripts in development
 JLS-control (jls-control.sh) - All-in-one tool for easy management of a Linux PC/Server.
 
 MyPache-panel (mypache-panel.sh) - Basic Apache2 & MySQL management tool.
