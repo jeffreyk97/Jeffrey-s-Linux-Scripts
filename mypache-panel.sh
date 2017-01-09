@@ -405,7 +405,7 @@ do
 	exit $?
 	;;
     8)
-    dialog --title "Feedback system" --keep-tite --msgbox "Report an issue or request a feature on JLS' Github page (CTRL+click to open): https://github.com/jeffreyk97/Jeffrey-s-Linux-Scripts/issues\nPlease use the scriptname (MyPache) in the issue title." 8 70
+    dialog --title "Feedback system" --keep-tite --msgbox "Report an issue or request a feature on JLS' Github page (CTRL+click to open or highlight and copy the link): https://github.com/jeffreyk97/Jeffrey-s-Linux-Scripts/issues\nPlease use the scriptname (MyPache) in the issue title." 8 70
     mainmenu
     exit $?
 	;;
