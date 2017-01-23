@@ -1,5 +1,5 @@
 # Jeffrey's Linux scripts (JLS)
-It's time to finish what you rejected, boss.
+It's time to finish what we started.
 
 ## Notice
 This page is under development.
